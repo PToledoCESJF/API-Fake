@@ -4,9 +4,8 @@ const faker = require('faker/locale/pt_BR');
 const TICKETS = 1500;
 const USUARIOS = 5;
 const tempoPorCaso = 50;
-const dataInicio = '2019-01-01';
-// const dataFinal = new Date();
-const dataFinal = '2020-11-30';
+const dataInicio = '01-01-2019';
+const dataFinal = new Date();
 
 const tps = {
   TYPE: ['Erro', 'Novidade', 'Implementação'],
