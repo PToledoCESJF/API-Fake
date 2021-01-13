@@ -2,6 +2,7 @@
 ---
 
 1 - Crie uma pasta de nome **db_fake**.
+
 ---
 2 - Entre na pasta pelo terminal e clone o repositório do projeto:
 ```bash
@@ -62,5 +63,7 @@
 
 ---
 
-###### Desenvolvido por Paulo Toledo
----
+<h6 align="right"> 
+    Desenvolvido por Paulo Toledo 
+</h6>
+
